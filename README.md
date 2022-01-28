@@ -1,5 +1,5 @@
-# D2 for Java
-I want a bit of API experience, and need some more Java experience, and I figure this is probably not the best place to start. However, it might could be fun to try out.
+# D2 for Terminal
+I want a bit of API experience, and need some more bash experience, and I figure this is probably not the best place to start. However, it might could be fun to try out.
 
 It'll probably be a slow project
 
